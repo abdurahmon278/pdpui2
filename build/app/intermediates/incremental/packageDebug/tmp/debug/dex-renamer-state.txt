@@ -1,0 +1,4 @@
+#Fri May 26 18:20:02 UZT 2023
+base.0=/home/davronov/StudioProjects/pdpui2/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
